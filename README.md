@@ -7,8 +7,8 @@ This is a collaborative project where each contributor shares their favorite thi
 
 ## Contributors
 - Jenni (Me)
-- 
--
+- Chris
+- Austin
 
 ## How to Use
 1. Open `index.html` to see the list of favorite things.
