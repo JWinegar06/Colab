@@ -1,0 +1,59 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: navy;
+    color: lightblue;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  header nav ul li a {
+    color: lightblue;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  main {
+    text-align: center;
+    padding: 40px;
+  }
+
+  main ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+  }
+  
+  .about, .kittens {
+    margin-bottom: 25px;
+  }
+  
+  .kitten-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    flex-wrap: wrap;
+  }
+  
+  .kitten-gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+  }
